@@ -30,8 +30,5 @@
     "tsup": "^6.7.0",
     "tsx": "^3.12.7",
     "typescript": "^5.0.4"
-  },
-  "dependencies": {
-    "puppeteer": "^20.4.0"
   }
 }
