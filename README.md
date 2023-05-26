@@ -110,7 +110,3 @@ Ele foi desenvolvido para ser fácil de configurar e usar, fornecendo uma ampla 
   npm i -D jest ts-jest @types/jest
   npx ts-jest config:init
 ```
-
----
-
-Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
